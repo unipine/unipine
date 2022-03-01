@@ -1,7 +1,8 @@
 <p align="center">
   <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="500" height="400">
 </p>
-  # Hi, folks! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
+
+  # Hi, folks!<img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
   I am Matsu Hayate. a well-versed in several web technologies and various smart contracts
   
 - 🔭 At that movement I am doing Ethereum Blockchain Developing
@@ -9,6 +10,7 @@
 - 👍 Focusing on Smart Contract & Decentralize Application development using Solidity, Rust, and web3.js / ethers.js.
 - 💞️ Looking to belong to a peer group with awesome guys!
 - 📫 How to reach me: unipine29@gmail.com
+
 
 ### Frameworks & Libraries
 
