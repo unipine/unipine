@@ -3,7 +3,7 @@
 </p>
 
   # Hi, folks!<img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
-  I am Matsu Hayate. a well-versed in several web technologies and various smart contracts
+  I am Hayate Matsu. a well-versed in several web technologies and various smart contracts
   
 - 🔭 At that movement I am doing Ethereum Blockchain Developing
 - 👀 Software Engineering & Crypto World are the most favorite & eager part
