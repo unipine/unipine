@@ -5,7 +5,7 @@
   # Hi, folks!<img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
   I am Hayate Matsu. a well-versed in several web technologies and various smart contracts
   
-- 🔭 At that movement I am doing Ethereum Blockchain Developing
+- 🔭 At that movement I am developing a Decentralized Application.
 - 👀 Software Engineering & Crypto World are the most favorite & eager part
 - 👍 Focusing on Smart Contract & Decentralize Application development using Solidity, Rust, and web3.js / ethers.js.
 - 💞️ Looking to belong to a peer group with awesome guys!
@@ -88,9 +88,7 @@
 <a href="https://t.me/unipine" rel="nofollow">
   <img src="https://camo.githubusercontent.com/0ea1367897b9ee948089a0db824d57a30ce8a5413b59f80d2062b7efcd39ceb3/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f74656c656772616d2d2532333030373742352e7376673f267374796c653d666f722d7468652d6261646765266c6f676f3d74656c656772616d266c6f676f436f6c6f723d7768697465" data-canonical-src="https://img.shields.io/badge/telegram-%230077B5.svg?&amp;style=for-the-badge&amp;logo=telegram&amp;logoColor=white" style="max-width:100%;">
 </a>&nbsp;&nbsp;
-<a href="https://www.linkedin.com/in/unipine" rel="nofollow">
-  <img src="https://camo.githubusercontent.com/a493f6833f99fb3c85788d6d9305e6b7a42b838e5ee5d138fd9a8214a7e77472/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f6c696e6b6564696e2d2532333030373742352e7376673f267374796c653d666f722d7468652d6261646765266c6f676f3d6c696e6b6564696e266c6f676f436f6c6f723d7768697465" data-canonical-src="https://img.shields.io/badge/linkedin-%230077B5.svg?&amp;style=for-the-badge&amp;logo=linkedin&amp;logoColor=white" style="max-width:100%;">
-</a>&nbsp;&nbsp;
+
 <a href="mailto:unipine29@gmail.com">
   <img src="https://camo.githubusercontent.com/44d159cb65c2e906ed744052efc1c933364dddc8f2735fe0782a5f60594ff22d/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f656d61696c206d652d2532333144413146332e7376673f267374796c653d666f722d7468652d6261646765266c6f676f3d676d61696c266c6f676f436f6c6f723d7768697465" data-canonical-src="https://img.shields.io/badge/email me-%231DA1F3.svg?&amp;style=for-the-badge&amp;logo=gmail&amp;logoColor=white" style="max-width:100%;">
 </a>&nbsp;&nbsp;
