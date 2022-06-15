@@ -22,12 +22,6 @@ var developements = {
     "Others" : [ "Git", "GitHub", "Docker", "Jira", "Trello", "AWS", "Firebase" ]
 }
 ```
-<div align=right>
-    <a href="https://github.com/anuraghazra/github-readme-stats">
-      <img width=325 align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=unipine&langs_count=20&theme=highcontrast&layout=compact" />
-    </a>
-</div>
-
 
 - 👨‍💻 All of my projects are available at
 [https://github.com/unipine/](https://github.com/unipine/)
