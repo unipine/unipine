@@ -30,8 +30,7 @@ var developements = {
 - 👍 Thanks for visiting my profile. Follow me to get all the updates about my repositories and my open source works.
 
 ## 
-
-<a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img alt="DenverCoder1's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=unipine&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" /></a>
+<img src="https://activity-graph.herokuapp.com/graph?username=unipine&theme=dracula&bg_color=00000000&color=878787&line=4c8ed9&point=00000000&area=true&hide_border=true">
 
 ##
 
